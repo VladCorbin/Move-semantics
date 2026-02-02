@@ -1,0 +1,41 @@
+# Компиляционные файлы
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.manifest
+*.exp
+
+# Временные файлы
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Отладочные файлы
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+
+# Файлы автосохранения
+*~
+*.swp
+*.swo
+*.tmp
+
+# Файлы с данными проекта
+*.vcxproj.filters
+*.vcxproj.user
+##______
+*.filters
